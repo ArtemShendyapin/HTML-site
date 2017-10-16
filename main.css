@@ -9,16 +9,15 @@ div.topping {
 
 div.menu {
     max-width: 150px;
+    width: 100%;
     float: left;
     border-bottom: double; 
     border-left: double;
-//    margin-top: 70px;
     position: fixed;
 }
 
 div.menu > h3 {
     text-align: center;
-    border: solid black;
 }
 
 div.text {
